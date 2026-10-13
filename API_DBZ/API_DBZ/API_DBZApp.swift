@@ -11,7 +11,7 @@ import SwiftUI
 struct API_DBZApp: App {
     var body: some Scene {
         WindowGroup {
-            
+            TelaInicial()
         }
     }
 }
